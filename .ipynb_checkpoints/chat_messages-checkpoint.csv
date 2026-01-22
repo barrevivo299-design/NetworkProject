@@ -1,0 +1,6 @@
+app_protocol,src_port,dst_port,message,timestamp
+CHAT,5001,6001,"Hi, this is client A",1
+CHAT,6001,5001,"Hello A, client B here",2
+CHAT,5002,6002,"Private chat message",3
+CHAT,5003,6003,"Client disconnected",4
+CHAT,5001,6001,"Are you still there?",5

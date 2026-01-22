@@ -1,0 +1,6 @@
+msg_id,app_protocol,src_app,dst_app,message,timestamp
+1,TCP,client1,server,Hello from client1,0.01
+2,TCP,client2,server,Second message,0.15
+3,TCP,client3,server,Third message,0.30
+4,TCP,client4,server,Fourth message,0.45
+5,TCP,client5,server,Fifth message,0.60
